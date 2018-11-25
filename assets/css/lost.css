@@ -1,0 +1,7 @@
+#lost-table {
+    table-layout: fixed;
+    cursor: pointer;
+}
+#lost-table td {
+    word-break: break-all;
+}

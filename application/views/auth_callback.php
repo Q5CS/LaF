@@ -1,0 +1,1 @@
+<p style="text-align:center">正在与认证服务器通信，请稍候...</p>

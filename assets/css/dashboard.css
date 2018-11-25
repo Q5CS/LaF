@@ -1,0 +1,7 @@
+#my-table {
+    table-layout: fixed;
+    cursor: pointer;
+}
+#my-table td {
+    word-break: break-all;
+}

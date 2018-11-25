@@ -1,0 +1,7 @@
+#found-table {
+    table-layout: fixed;
+    cursor: pointer;
+}
+#found-table td {
+    word-break: break-all;
+}
