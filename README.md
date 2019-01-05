@@ -22,7 +22,7 @@
  1. 将 `import.sql` 导入数据库
  2. 进入 `application/config` 目录，编辑 `database.php` 和 `config.php` 文件，分别配置数据库信息和网站地址
  3. 编辑 `application/models/User_model.php`，在 `getUserToken` 函数中修改 Oauth 相关信息
- 3. （如使用 nginx）为 codeigniter 配置伪静态
+ 4. （如使用 nginx）为 codeigniter 配置伪静态
 
 
 ## 使用方法
